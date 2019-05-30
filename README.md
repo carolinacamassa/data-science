@@ -8,6 +8,3 @@
 - 2D Gaussian Mixture Model synthetic data generator
 
 
-
-## Data Camp Courses completed:
-- 
